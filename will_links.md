@@ -5,9 +5,8 @@ Enjoy some slides from this week!
 - Intro to Computers and Computing: No Slides
 - Software Environments, Open Source, and Package Management: <https://savethevowels.org/talks/cssbc_development.html>
 - Command Line Basics: No Slides
+- Command Line Basics Activity: <https://github.com/stylerw/cssbootcamp_computing/unix/README.md>
 - Version Control, Reproducibility, and Error: <https://savethevowels.org/talks/cssbc_versioncontrol.html>
-- Git Activity: <https://wstyler.ucsd.edu/docs/cssbc_git_activity.html>
-    - Don't worry, this activity's going to be super fun.
 - Networking and Remote Servers: <https://wstyler.ucsd.edu/talks/cssbc_somebodyelsescomputer.html>
 - Teaching for Research:
     - <https://wstyler.ucsd.edu/presentationdesign.html>
