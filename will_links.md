@@ -8,17 +8,9 @@ Enjoy some slides from this week!
 - Command Line Basics Activity: <https://github.com/stylerw/cssbootcamp_computing/tree/main/unix>
 - Version Control, Reproducibility, and Error: <https://savethevowels.org/talks/cssbc_versioncontrol.html>
 - Networking and Remote Servers: <https://wstyler.ucsd.edu/talks/cssbc_somebodyelsescomputer.html>
+- Data Pipelines: <https://wstyler.ucsd.edu/talks/cssbc_datapipelines.html#/>
 - Teaching for Research:
+    - <https://savethevowels.org/docs/cssbc_teaching_for_research.html>
     - <https://wstyler.ucsd.edu/presentationdesign.html>
     - <https://wstyler.ucsd.edu/docs/l500_non_traditional_teaching.html>
-    - <https://savethevowels.org/docs/cssbc_teaching_for_research.html>
 - Writing Documentation: <https://savethevowels.org/docs/cssbc_writing_documentation.html>
-- Why word sucks: <https://savethevowels.org/talks/make_writing_suck_less.html>
-
-# Talks from previous years (which might be interesting or useful)
-
-- Data Pipelines: <https://wstyler.ucsd.edu/talks/cssbc_datapipelines.html#/>
-- Will's Research Talk: <https://savethevowels.org/talks/colloq_ucla_2019.html>
-- Text Data: <https://savethevowels.org/talks/cssbc_textdata.html>
-- Sound: <https://savethevowels.org/talks/cssbc_sound.html>
-- Sound and Computers: <https://savethevowels.org/talks/cssbc_computationalsound.html>
